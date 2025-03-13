@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "Itz_SapnaMusicbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@rare_music_bot")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "˹ 𝗦ᴀᴘɴᴀ ✘ 𝗠ᴜsɪᴄ ˼")
@@ -40,15 +40,15 @@ SUDO_USERS = [6762113050, 6919199044]
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/itzshukla/STRANGER-MUSIC2.0",
+    "https://github.com/bolt9923/shinu",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SHIVANSH474")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MASTIWITHFRIENDSXD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+Z1KURmoPcT9lNjVl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/huntermafiya")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -87,7 +87,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/0b637v.jpg"
+    "START_IMG_URL", "https://i.imghippo.com/files/Ud6932QAs.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/80e35d93784e239bdc86c.jpg"
