@@ -21,7 +21,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/SHIVANSH474")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/huntermafiya")
                 ]
             ]
         ),
@@ -38,7 +38,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/SHIVANSH474")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/huntermafiya")
                 ]
             ]
         ),
@@ -55,7 +55,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/SHIVANSH474")
+                        "🎁 𝐃ᴏɴᴀᴛᴇ 🎁", url=f"https://t.me/huntermafiya")
                 ]
             ]
         ),
