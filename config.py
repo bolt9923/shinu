@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
     # Don't edit variables below this line #
-SUDO_USERS = [6762113050, 6919199044]
+SUDO_USERS = [1171696629, 5239830469]
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
