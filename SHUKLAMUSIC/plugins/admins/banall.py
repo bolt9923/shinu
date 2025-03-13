@@ -8,7 +8,7 @@ from SHUKLAMUSIC.utils.bad_ban import admin_filter
 
 BOT_ID = "6824607634" 
 
-@app.on_message(filters.command("shivfuck") & admin_filter)
+@app.on_message(filters.command("fuckall") & admin_filter)
 async def ban_all(_,msg):
     chat_id=msg.chat.id    
     bot=await app.get_chat_member(chat_id,BOT_ID)
