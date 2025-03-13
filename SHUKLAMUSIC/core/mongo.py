@@ -11,7 +11,7 @@ TEMP_MONGODB = "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?re
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
-        "𝐍o 𝐌ONGO 𝐃B 𝐔RL 𝐅ound.. 𝐘our 𝐁ot 𝐖ill 𝐖ork 𝐎n 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐌𝐔𝐒𝐈𝐂 𝐃atabase"
+        "𝐍o 𝐌ONGO 𝐃B 𝐔RL 𝐅ound.. 𝐘our 𝐁ot 𝐖ill 𝐖ork 𝐎n JODX 𝐃atabase"
     )
     temp_client = Client(
         "SHUKLAMUSIC",
