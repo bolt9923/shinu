@@ -15,7 +15,7 @@ app.on_message(
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b61227af05544deb76a34.jpg",
+        photo=f"https://i.imghippo.com/files/Ud6932QAs.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -44,7 +44,7 @@ async def help(client: Client, message: Message):
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b61227af05544deb76a34.jpg",
+        photo=f"https://i.imghippo.com/files/Ud6932QAs.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -73,7 +73,7 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/b61227af05544deb76a34.jpg",
+        photo=f"https://i.imghippo.com/files/Ud6932QAs.jpg",
         caption=f"""🦋 𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ 𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ ❤️""",
         reply_markup=InlineKeyboardMarkup(
             [
