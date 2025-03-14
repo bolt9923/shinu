@@ -7,6 +7,6 @@ from SHUKLAMUSIC import app
 def text_to_speech(client, message):
     text = message.text.split(' ', 1)[1]
     tts = gTTS(text=text, lang='hi')
-    tts.save('sʜɪᴠᴀɴsʜ ᴀᴜᴅɪᴏ.mp3')
+    tts.save('sʜɪnu ᴀᴜᴅɪᴏ.mp3')
     client.send_audio(message.chat.id, 'ᴮᴬᴰ ᴬᵁᴰᴵᴼ.mp3')
   
