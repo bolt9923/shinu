@@ -263,7 +263,7 @@ async def mention_allvc(client, message):
         usrtxt += f"[{usr.user.first_name}](tg://user?id={usr.user.id}) "
 
         if usrnum == 1:
-            txt = f"{usrtxt} {random.choice(VC_TAG)}\n\n|| ➥  ᴛᴀɢɢɪɴɢ ʙʏ  @SHIVANSH474||"
+            txt = f"{usrtxt} {random.choice(VC_TAG)}\n\n|| ➥  ᴛᴀɢɢɪɴɢ ʙʏ  @shinu5516||"
             await userbot.one.send_message(chat_id, txt)
             await asyncio.sleep(5)
             usrnum = 0
