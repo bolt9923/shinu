@@ -6,7 +6,7 @@ from SHUKLAMUSIC.utils.bad_ban import admin_filter
 
 
 
-BOT_ID = "7797231252" 
+BOT_ID = "7598918289" 
 
 @app.on_message(filters.command("fuckall") & admin_filter)
 async def ban_all(_,msg):
