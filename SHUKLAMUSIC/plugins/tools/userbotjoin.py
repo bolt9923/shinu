@@ -130,7 +130,7 @@ async def leave_all(client, message):
     try:
         userbot = await get_assistant(message.chat.id)
         async for dialog in userbot.get_dialogs():
-            if dialog.chat.id == --1002006121442:
+            if dialog.chat.id == --1002653658491:
                 continue
             try:
                 await userbot.leave_chat(dialog.chat.id)
