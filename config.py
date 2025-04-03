@@ -13,10 +13,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "@rare_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@TG_MUSIC_XBOT")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "˹ 𝗦ᴀᴘɴᴀ ✘ 𝗠ᴜsɪᴄ ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹ 𝙏𝙂 ✘ 𝙈𝙐𝙎𝙄𝘾 ˼")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
